@@ -1,7 +1,7 @@
 
 # WebScrapper-LLM-Milvus
 
-Deep web Q&amp;A. AI crawls upto 5 depths &amp; organizes website knowledge for LLM answers
+Deep web Q&amp;A. This crawls upto 5 depths &amp; organizes website knowledge for LLM answers , assignment submitted to 'stepsai.co'
 
 
 
@@ -111,3 +111,10 @@ for i, answer in enumerate(answers):
 ```
 
 This code demonstrates a basic workflow for building a document retrieval and question answering. For any query reach out to priyanshukumarweb3@gmail.com.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://0xpriyanshu.github.io/0xpriyanshu/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshukrs)
+
+
