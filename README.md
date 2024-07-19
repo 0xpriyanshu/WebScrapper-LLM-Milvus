@@ -1,7 +1,7 @@
 
 # WebScrapper-LLM-Milvus
 
-This crawls upto 5 depths &amp; organizes website knowledge for LLM question answering , assignment submitted to 'stepsai.co'
+This crawls upto 5 depths &amp; organizes website knowledge for LLM question answering.
 
 
 
